@@ -27,7 +27,12 @@ namespace FishORama
         private ITokenManager tokenManager;     // Holds a reference to the TokenManager - for access to ChickenLeg variable
 
         // *** ADD YOUR CLASS VARIABLES HERE *** 
-
+        int xSpeed;
+        int ySpeed;
+        int posScreenWidthMargin;
+        int negScreenWidthMargin;
+        int posScreenHeightMargin;
+        int negScreenHeightMargin;
 
 
 
@@ -45,8 +50,14 @@ namespace FishORama
             tokenManager = pTokenManager;
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
+            xSpeed = 5;
+            ySpeed = 1;
 
+            posScreenWidthMargin = screen.width / 2;
+            negScreenWidthMargin = -(screen.width / 2);
 
+            posScreenHeightMargin = screen.height / 2;
+            negScreenHeightMargin = -(screen.height / 2);
 
 
 
@@ -57,9 +68,30 @@ namespace FishORama
         public void Update()
         {
             // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
+            if (xPosition >= posScreenWidthMargin) 
+            { 
+                xDirection = -1;
+            }
 
+            if (xPosition <= negScreenWidthMargin)
+            {
+                xDirection = 1;
+            }
 
+            if (yPosition >= posScreenHeightMargin)
+            {
+                yDirection = -1;
+            }
 
+            if (yPosition <= negScreenHeightMargin)
+            {
+                yDirection = 1;
+            }
+
+            xPosition += xSpeed * xDirection;
+            yPosition += ySpeed * yDirection;
+
+            
 
 
 

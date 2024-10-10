@@ -26,9 +26,7 @@ namespace FishORama
 
         // *** ADD YOUR CLASS VARIABLES HERE ***
         // Variables to hold fish will be declared here
-
         OrangeFish orangeFish1;
-
 
 
 
@@ -54,9 +52,9 @@ namespace FishORama
             // *** ADD YOUR NEW TOKEN CREATION CODE HERE ***
             // Code to create fish tokens and assign to thier variables goes here
             // Remember to insert each token into the kernel
-
-            orangeFish1 = new OrangeFish("OrangeFish", -200, -200, screen, tokenManager);
+            orangeFish1 = new OrangeFish("OrangeFish", 0, 0, screen, tokenManager);
             kernel.InsertToken(orangeFish1);
+
 
 
 
@@ -69,8 +67,8 @@ namespace FishORama
 
             // *** ADD YOUR UPDATE CODE HERE ***
             // Each fish object (sitting in a variable) must have Update() called on it here
-
             orangeFish1.Update();
+
 
 
         }

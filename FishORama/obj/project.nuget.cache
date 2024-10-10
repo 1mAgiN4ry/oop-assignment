@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TA7/Kma5snU=",
+  "dgSpecHash": "3jnER6lhrM4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORama\\FishORama.csproj",
+  "projectFilePath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORama\\FishORama.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\focc1_24\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\focc1_24\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

@@ -7618,11 +7618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORama\\FishORama.csproj",
+      "projectUniqueName": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORama\\FishORama.csproj",
       "projectName": "FishORama",
-      "projectPath": "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORama\\FishORama.csproj",
+      "projectPath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORama\\FishORama.csproj",
       "packagesPath": "C:\\Users\\focc1_24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORama\\obj\\",
+      "outputPath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORama\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7643,8 +7643,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj": {
-              "projectPath": "C:\\Users\\focc1_24\\Desktop\\Week2FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj"
+            "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj": {
+              "projectPath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj"
             }
           }
         }

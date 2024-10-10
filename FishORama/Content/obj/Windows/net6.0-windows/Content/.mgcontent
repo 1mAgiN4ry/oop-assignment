@@ -4,23 +4,23 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/AnglerFish_Lit.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/AnglerFish_Unlit.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/AquariumBackground.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Background.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/BlueFish.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/bubble.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/ChickenLeg.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/DRUM_Blue.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/DRUM_Red.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Foreground_Rocks.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/ForegroundSand.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Midground_Rocks.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/OrangeFish.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Piranha1.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Piranha2.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Seahorse.png</File>
-    <File>C:/Users/focc1_24/Desktop/Week2FishORama24/FishORama/Content/Urchin.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/AnglerFish_Lit.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/AnglerFish_Unlit.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/AquariumBackground.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Background.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/BlueFish.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/bubble.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/ChickenLeg.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/DRUM_Blue.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/DRUM_Red.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Foreground_Rocks.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/ForegroundSand.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Midground_Rocks.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/OrangeFish.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Piranha1.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Piranha2.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Seahorse.png</File>
+    <File>C:/Users/focc1_24/Downloads/FishORama24/FishORama24/FishORama/Content/Urchin.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
