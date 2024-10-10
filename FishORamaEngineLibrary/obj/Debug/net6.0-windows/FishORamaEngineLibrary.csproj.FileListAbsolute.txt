@@ -1,0 +1,36 @@
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.deps.json
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\refint\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORamaEngineLibrary\obj\Debug\net6.0-windows\ref\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.deps.json
+C:\TEMP\FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\refint\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\ref\FishORamaEngineLibrary.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.deps.json
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\refint\FishORamaEngineLibrary.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORamaEngineLibrary\obj\Debug\net6.0-windows\ref\FishORamaEngineLibrary.dll

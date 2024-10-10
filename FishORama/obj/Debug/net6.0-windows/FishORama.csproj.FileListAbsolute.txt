@@ -1,0 +1,256 @@
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Lit.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Unlit.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\AquariumBackground.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Background.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\BlueFish.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\bubble.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\ChickenLeg.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Blue.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Red.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\ForegroundSand.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Foreground_Rocks.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Midground_Rocks.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\OrangeFish.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Piranha1.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Piranha2.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Seahorse.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Content\Urchin.xnb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORama.exe
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORama.deps.json
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORama.runtimeconfig.json
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORama.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORama.pdb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.AssemblyReference.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfoInputs.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfo.cs
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.CoreCompileInputs.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.CopyComplete
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\refint\FishORama.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.pdb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\FishORama.genruntimeconfig.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\obj\Debug\net6.0-windows\ref\FishORama.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libopenal.1.dylib
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\SDL2.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\soft_oal.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\SDL2.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\soft_oal.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Lit.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Unlit.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\AquariumBackground.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Background.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\BlueFish.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\bubble.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\ChickenLeg.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Blue.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Red.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\ForegroundSand.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Foreground_Rocks.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Midground_Rocks.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\OrangeFish.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Piranha1.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Piranha2.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Seahorse.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Content\Urchin.xnb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORama.exe
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORama.deps.json
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORama.runtimeconfig.json
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORama.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORama.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libopenal.so.1
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libSDL2.dylib
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libopenal.1.dylib
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\SDL2.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\soft_oal.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\SDL2.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\soft_oal.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.AssemblyReference.cache
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfoInputs.cache
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfo.cs
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.CoreCompileInputs.cache
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.Up2Date
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\refint\FishORama.dll
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.pdb
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\FishORama.genruntimeconfig.cache
+C:\TEMP\FishORama23 (DELETE)\FishORama\obj\Debug\net6.0-windows\ref\FishORama.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Lit.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Unlit.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AquariumBackground.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Background.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\BlueFish.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\bubble.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\ChickenLeg.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Blue.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Red.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\ForegroundSand.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Foreground_Rocks.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Midground_Rocks.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\OrangeFish.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Piranha1.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Piranha2.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Seahorse.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Urchin.xnb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.exe
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.deps.json
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.runtimeconfig.json
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.pdb
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libopenal.so.1
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libSDL2.dylib
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libopenal.1.dylib
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\SDL2.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\soft_oal.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\SDL2.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\soft_oal.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\TEMP\FishORama24\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.AssemblyReference.cache
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfoInputs.cache
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfo.cs
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.CoreCompileInputs.cache
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.Up2Date
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.dll
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\refint\FishORama.dll
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.pdb
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.genruntimeconfig.cache
+C:\TEMP\FishORama24\FishORama\obj\Debug\net6.0-windows\ref\FishORama.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Lit.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AnglerFish_Unlit.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\AquariumBackground.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Background.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\BlueFish.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\bubble.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\ChickenLeg.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Blue.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\DRUM_Red.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\ForegroundSand.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Foreground_Rocks.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Midground_Rocks.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\OrangeFish.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Piranha1.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Piranha2.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Seahorse.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Content\Urchin.xnb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.exe
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.deps.json
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.runtimeconfig.json
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORama.pdb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libSDL2.dylib
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\osx\native\libopenal.1.dylib
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\SDL2.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x64\native\soft_oal.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\SDL2.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\runtimes\win-x86\native\soft_oal.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\bin\Debug\net6.0-windows\FishORamaEngineLibrary.pdb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.AssemblyReference.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfoInputs.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.AssemblyInfo.cs
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.CoreCompileInputs.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.csproj.Up2Date
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\refint\FishORama.dll
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.pdb
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\FishORama.genruntimeconfig.cache
+C:\Users\focc1_24\Desktop\Week2FishORama24\FishORama\obj\Debug\net6.0-windows\ref\FishORama.dll

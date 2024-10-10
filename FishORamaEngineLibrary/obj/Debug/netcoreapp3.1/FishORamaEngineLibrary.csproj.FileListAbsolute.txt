@@ -1,0 +1,49 @@
+C:\dev\FishORama22_test\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.deps.json
+C:\dev\FishORama22_test\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\dev\FishORama22_test\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\dev\FishORama22_test\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\dev\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.deps.json
+C:\dev\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\dev\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\dev\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.deps.json
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csprojAssemblyReference.cache
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\Users\blyc1\Desktop\Temp\FishORama22 (dev)\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.deps.json
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\TEMP WORK\FishORama22\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.deps.json
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\bin\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfoInputs.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.AssemblyInfo.cs
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.dll
+C:\Users\blyc1\Desktop\FisORama23\FishORama\FishORamaEngineLibrary\obj\Debug\netcoreapp3.1\FishORamaEngineLibrary.pdb
