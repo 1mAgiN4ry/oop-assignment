@@ -68,24 +68,14 @@ namespace FishORama
         public void Update()
         {
             // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
-            if (xPosition >= posScreenWidthMargin) 
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin) 
             { 
-                xDirection = -1;
+                xDirection *= -1;
             }
 
-            if (xPosition <= negScreenWidthMargin)
+            if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
             {
-                xDirection = 1;
-            }
-
-            if (yPosition >= posScreenHeightMargin)
-            {
-                yDirection = -1;
-            }
-
-            if (yPosition <= negScreenHeightMargin)
-            {
-                yDirection = 1;
+                yDirection *= -1;
             }
 
             xPosition += xSpeed * xDirection;
