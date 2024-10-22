@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
       "projectName": "FishORamaEngineLibrary",
-      "projectPath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
+      "projectPath": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
       "packagesPath": "C:\\Users\\focc1_24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\focc1_24\\Downloads\\FishORama24\\FishORama24\\FishORamaEngineLibrary\\obj\\",
+      "outputPath": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -34,11 +34,16 @@ namespace FishORama
         int posScreenHeightMargin;
         int negScreenHeightMargin;
 
+        int orangeFishWidth;
+        int orangeFishHeight;
+
+        Random rand;
+
 
 
         /// CONSTRUCTOR: OrangeFish Constructor
         /// The elements in the brackets are PARAMETERS, which will be covered later in the course
-        public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager)
+        public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
             // State initialisation (setup) for the object
             textureID = pTextureID;
@@ -48,19 +53,20 @@ namespace FishORama
             yDirection = 1;
             screen = pScreen;
             tokenManager = pTokenManager;
+            rand = pRand;
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
-            xSpeed = 5;
-            ySpeed = 1;
+            xSpeed = rand.Next(1, 4) * 2;
+            ySpeed = rand.Next(1, 6);
 
-            posScreenWidthMargin = screen.width / 2;
-            negScreenWidthMargin = -(screen.width / 2);
+            orangeFishWidth = 128;
+            orangeFishHeight = 86;
 
-            posScreenHeightMargin = screen.height / 2;
-            negScreenHeightMargin = -(screen.height / 2);
+            posScreenWidthMargin = (screen.width - orangeFishWidth) / 2;
+            negScreenWidthMargin = -((screen.width - orangeFishWidth) / 2);
 
-
-
+            posScreenHeightMargin = (screen.height - orangeFishHeight) / 2;
+            negScreenHeightMargin = -((screen.height - orangeFishHeight) / 2);
         }
 
         /// METHOD: Update - will be called repeatedly by the Update loop in Simulation
@@ -68,33 +74,18 @@ namespace FishORama
         public void Update()
         {
             // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
-            if (xPosition >= posScreenWidthMargin) 
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin) 
             { 
-                xDirection = -1;
+                xDirection *= -1;
             }
 
-            if (xPosition <= negScreenWidthMargin)
+            if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
             {
-                xDirection = 1;
-            }
-
-            if (yPosition >= posScreenHeightMargin)
-            {
-                yDirection = -1;
-            }
-
-            if (yPosition <= negScreenHeightMargin)
-            {
-                yDirection = 1;
+                yDirection *= -1;
             }
 
             xPosition += xSpeed * xDirection;
             yPosition += ySpeed * yDirection;
-
-            
-
-
-
         }
 
         /// METHOD: Draw - Called repeatedly by FishORama engine to draw token on screen

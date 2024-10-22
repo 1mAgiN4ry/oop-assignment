@@ -27,7 +27,8 @@ namespace FishORama
         // *** ADD YOUR CLASS VARIABLES HERE ***
         // Variables to hold fish will be declared here
         OrangeFish orangeFish1;
-
+        Random rand;
+        
 
 
 
@@ -39,7 +40,7 @@ namespace FishORama
             screen = kernel.Screen;             // Sets the screen variable in Simulation so the screen dimensions are accessible
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
-
+            rand = new Random();
 
 
 
@@ -52,7 +53,9 @@ namespace FishORama
             // *** ADD YOUR NEW TOKEN CREATION CODE HERE ***
             // Code to create fish tokens and assign to thier variables goes here
             // Remember to insert each token into the kernel
-            orangeFish1 = new OrangeFish("OrangeFish", 0, 0, screen, tokenManager);
+            int xPos = rand.Next(-400, 401);
+            int yPos = rand.Next(-400, 401);
+            orangeFish1 = new OrangeFish("OrangeFish", xPos, yPos, screen, tokenManager, rand);
             kernel.InsertToken(orangeFish1);
 
 
