@@ -1526,7 +1526,10 @@
           "MonoGame.Framework.DesktopGL": "3.8.1.303"
         },
         "runtime": {
-          "FishORamaEngineLibrary.dll": {}
+          "FishORamaEngineLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

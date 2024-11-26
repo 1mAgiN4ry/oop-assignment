@@ -102,23 +102,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\focc1_24\\.nuget\\packages\\": {},
+    "C:\\Users\\Calin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Calin\\Documents\\GitHub\\oop-assignment\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
       "projectName": "FishORamaEngineLibrary",
-      "projectPath": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
-      "packagesPath": "C:\\Users\\focc1_24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\obj\\",
+      "projectPath": "C:\\Users\\Calin\\Documents\\GitHub\\oop-assignment\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
+      "packagesPath": "C:\\Users\\Calin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Calin\\Documents\\GitHub\\oop-assignment\\FishORamaEngineLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\focc1_24\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Calin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -143,8 +143,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -175,7 +176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

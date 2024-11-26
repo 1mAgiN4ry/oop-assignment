@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4UOg3mq2MdE=",
+  "dgSpecHash": "6ajid9f7Wao=",
   "success": true,
-  "projectFilePath": "C:\\Users\\focc1_24\\Documents\\fishorama-code\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Calin\\Documents\\GitHub\\oop-assignment\\FishORamaEngineLibrary\\FishORamaEngineLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\focc1_24\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
-    "C:\\Users\\focc1_24\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+    "C:\\Users\\Calin\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Calin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
   ],
   "logs": []
 }

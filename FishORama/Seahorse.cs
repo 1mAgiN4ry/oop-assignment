@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using FishORamaEngineLibrary;
-using System.Runtime.ExceptionServices;
 
 /* FISHORAMA24 | .NET 6.0 | C.Blythe */
 
 namespace FishORama
 {
-    /// CLASS: OrangeFish - this class is structured as a FishORama engine Token class
+    /// CLASS: Seahorse - this class is structured as a FishORama engine Token class
     /// It contains all the elements required to draw a token to screen and update it (for movement etc)
-    class OrangeFish : IDraw
+    class Seahorse : IDraw
     {
         // CLASS VARIABLES
         // Variables hold the information for the class
@@ -25,26 +24,25 @@ namespace FishORama
         private int xDirection;                 // Holds the direction the token is currently moving - X value should be either -1 (left) or 1 (right)
         private int yDirection;                 // Holds the direction the token is currently moving - Y value should be either -1 (down) or 1 (up)
         private Screen screen;                  // Holds a reference to the screen dimansions (width and height)
-        private ITokenManager tokenManager;     // Holds a reference to the TokenManager - for access to ChickenLeg variable
 
         // *** ADD YOUR CLASS VARIABLES HERE *** 
-        float xSpeed;
-        float ySpeed;
+        int xSpeed;
+        int ySpeed;
         int posScreenWidthMargin;
         int negScreenWidthMargin;
         int posScreenHeightMargin;
         int negScreenHeightMargin;
 
-        int orangeFishWidth;
-        int orangeFishHeight;
+        int seahorseWidth;
+        int seahorseHeight;
 
         Random rand;
 
 
 
-        /// CONSTRUCTOR: OrangeFish Constructor
+        /// CONSTRUCTOR: Seahorse Constructor
         /// The elements in the brackets are PARAMETERS, which will be covered later in the course
-        public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
+        public Seahorse(string pTextureID, float pXpos, float pYpos, Screen pScreen, Random pRand)
         {
             // State initialisation (setup) for the object
             textureID = pTextureID;
@@ -53,21 +51,11 @@ namespace FishORama
             xDirection = 1;
             yDirection = 1;
             screen = pScreen;
-            tokenManager = pTokenManager;
             rand = pRand;
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
-            xSpeed = rand.Next(2, 6);
-            ySpeed = xSpeed / 2;
-
-            orangeFishWidth = 128;
-            orangeFishHeight = 86;
-
-            posScreenWidthMargin = (screen.width - orangeFishWidth) / 2;
-            negScreenWidthMargin = -((screen.width - orangeFishWidth) / 2);
-
-            posScreenHeightMargin = (screen.height - orangeFishHeight) / 2;
-            negScreenHeightMargin = -((screen.height - orangeFishHeight) / 2);
+            xSpeed = rand.Next(1, 4) * 2;
+            ySpeed = rand.Next(1, 6);
         }
 
         /// METHOD: Update - will be called repeatedly by the Update loop in Simulation
@@ -75,26 +63,14 @@ namespace FishORama
         public void Update()
         {
             // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
-            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin)
-            {
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin) 
+            { 
                 xDirection *= -1;
-
-                int chanceChangeDirection = rand.Next(1, 3);
-                if (chanceChangeDirection == 1)
-                {
-                    yDirection *= -1;
-                }
             }
 
             if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
             {
                 yDirection *= -1;
-
-                int chanceChangeDirection = rand.Next(1, 5);
-                if (chanceChangeDirection == 1)
-                {
-                    xDirection *= -1;
-                }
             }
 
             xPosition += xSpeed * xDirection;

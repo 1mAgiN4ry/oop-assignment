@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using FishORamaEngineLibrary;
-using System.Runtime.ExceptionServices;
 
 /* FISHORAMA24 | .NET 6.0 | C.Blythe */
 
@@ -14,7 +13,7 @@ namespace FishORama
 {
     /// CLASS: OrangeFish - this class is structured as a FishORama engine Token class
     /// It contains all the elements required to draw a token to screen and update it (for movement etc)
-    class OrangeFish : IDraw
+    class Urchin : IDraw
     {
         // CLASS VARIABLES
         // Variables hold the information for the class
@@ -28,8 +27,8 @@ namespace FishORama
         private ITokenManager tokenManager;     // Holds a reference to the TokenManager - for access to ChickenLeg variable
 
         // *** ADD YOUR CLASS VARIABLES HERE *** 
-        float xSpeed;
-        float ySpeed;
+        int xSpeed;
+        int ySpeed;
         int posScreenWidthMargin;
         int negScreenWidthMargin;
         int posScreenHeightMargin;
@@ -44,7 +43,7 @@ namespace FishORama
 
         /// CONSTRUCTOR: OrangeFish Constructor
         /// The elements in the brackets are PARAMETERS, which will be covered later in the course
-        public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
+        public Urchin(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
             // State initialisation (setup) for the object
             textureID = pTextureID;
@@ -57,8 +56,8 @@ namespace FishORama
             rand = pRand;
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
-            xSpeed = rand.Next(2, 6);
-            ySpeed = xSpeed / 2;
+            xSpeed = rand.Next(1, 4) * 2;
+            ySpeed = rand.Next(1, 6);
 
             orangeFishWidth = 128;
             orangeFishHeight = 86;
@@ -75,26 +74,14 @@ namespace FishORama
         public void Update()
         {
             // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
-            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin)
-            {
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin) 
+            { 
                 xDirection *= -1;
-
-                int chanceChangeDirection = rand.Next(1, 3);
-                if (chanceChangeDirection == 1)
-                {
-                    yDirection *= -1;
-                }
             }
 
             if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
             {
                 yDirection *= -1;
-
-                int chanceChangeDirection = rand.Next(1, 5);
-                if (chanceChangeDirection == 1)
-                {
-                    xDirection *= -1;
-                }
             }
 
             xPosition += xSpeed * xDirection;
