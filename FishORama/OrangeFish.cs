@@ -43,7 +43,6 @@ namespace FishORama
         public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
             // State initialisation (setup) for the object
-            rand = pRand;
             textureID = pTextureID;
             xPosition = pXpos;
             yPosition = pYpos;
@@ -51,7 +50,8 @@ namespace FishORama
             yDirection = 1;
             screen = pScreen;
             tokenManager = pTokenManager;
-            
+            rand = pRand;
+
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
             xSpeed = rand.Next(2, 6);

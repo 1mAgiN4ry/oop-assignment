@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using FishORamaEngineLibrary;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar;
 
 /* FISHORAMA24 | .NET 6.0 | C.Blythe */
 
@@ -21,14 +22,52 @@ namespace FishORama
         private Screen screen;
         private ITokenManager tokenManager;
 
-        public Seahorse()
+        float xSpeed;
+        float ySpeed;
+
+        int posScreenWidthMargin;
+        int negScreenWidthMargin;
+        int posScreenHeightMargin;
+        int negScreenHeightMargin;
+
+        Random rand;
+
+        public Seahorse(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
-            
+            textureID = pTextureID;
+            xPosition = pXpos;
+            yPosition = pYpos;
+            xDirection = 1;
+            yDirection = 1;
+            screen = pScreen;
+            tokenManager = pTokenManager;
+            rand = pRand;
+
+
+            xSpeed = rand.Next(2, 6);
+            ySpeed = xSpeed;
+
+            posScreenWidthMargin = screen.width / 2;
+            negScreenWidthMargin = -(screen.width / 2);
+
+            posScreenHeightMargin = screen.height / 2;
+            negScreenHeightMargin = -(screen.height / 2);
         }
 
         public void Update()
         {
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin)
+            {
+                xDirection *= -1;
+            }
 
+            if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
+            {
+                yDirection *= -1;
+            }
+
+            xPosition += xSpeed * xDirection;
+            yPosition += ySpeed * yDirection;
         }
 
         public void Draw(IGetAsset pAssetManager, SpriteBatch pSpriteBatch)

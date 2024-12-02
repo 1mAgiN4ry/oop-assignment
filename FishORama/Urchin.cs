@@ -32,13 +32,13 @@ namespace FishORama
 
         public Urchin(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
-            rand = pRand;
             textureID = pTextureID;
             xPosition = pXpos;
             yPosition = pYpos;
             xDirection = 1;
             screen = pScreen;
             tokenManager = pTokenManager;
+            rand = pRand;
 
             xSpeed = rand.Next(1, 4);
 

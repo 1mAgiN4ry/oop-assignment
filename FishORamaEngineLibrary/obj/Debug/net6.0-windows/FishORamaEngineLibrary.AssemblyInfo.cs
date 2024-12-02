@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FishORamaEngineLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53a4998acf162403a4cdf5285559ccdc227f376")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d749e674ce85b67697681e4683083b6061fc93e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FishORamaEngineLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FishORamaEngineLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
