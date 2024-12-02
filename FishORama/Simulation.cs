@@ -27,6 +27,7 @@ namespace FishORama
         // *** ADD YOUR CLASS VARIABLES HERE ***
         // Variables to hold fish will be declared here
         OrangeFish orangeFish;
+        Urchin[] urchins = new Urchin[3];
         Random rand;
 
 
@@ -53,18 +54,21 @@ namespace FishORama
             // *** ADD YOUR NEW TOKEN CREATION CODE HERE ***
             // Code to create fish tokens and assign to thier variables goes here
             // Remember to insert each token into the kernel
-            int maxScreenHeight = 1 + screen.height / 2;
-            int minScreenHeight = -(screen.height / 2);
+            int urchinHeight = 112;
 
-            int maxScreenWidth = 1 + screen.width / 2;
-            int minScreenWidth = -(screen.width / 2);
+            int xPos = rand.Next(-screen.width / 2, screen.width / 2 + 1);
+            int yPos = rand.Next(-screen.height / 2, screen.height / 2 + 1);
 
-            int xPos = rand.Next(minScreenWidth, maxScreenWidth);
-            int yPos = rand.Next(minScreenHeight, maxScreenHeight);
             orangeFish = new OrangeFish("OrangeFish", xPos, yPos, screen, tokenManager, rand);
             kernel.InsertToken(orangeFish);
 
+            for (int i = 0; i < urchins.Length; i++)
+            {
+                yPos = rand.Next(-(screen.height - urchinHeight) / 2, -(screen.height - urchinHeight) / 4);
 
+                urchins[i] = new Urchin("Urchin", xPos, yPos, screen, tokenManager, rand);
+                kernel.InsertToken(urchins[i]);
+            }
 
 
         }
@@ -77,8 +81,10 @@ namespace FishORama
             // *** ADD YOUR UPDATE CODE HERE ***
             // Each fish object (sitting in a variable) must have Update() called on it here
             orangeFish.Update();
-
-
+            for (int i = 0; i < urchins.Length; i++)
+            {
+                urchins[i].Update();
+            }
 
         }
     }

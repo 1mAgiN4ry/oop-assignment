@@ -30,23 +30,20 @@ namespace FishORama
         // *** ADD YOUR CLASS VARIABLES HERE *** 
         float xSpeed;
         float ySpeed;
+
         int posScreenWidthMargin;
         int negScreenWidthMargin;
         int posScreenHeightMargin;
         int negScreenHeightMargin;
 
-        int orangeFishWidth;
-        int orangeFishHeight;
-
         Random rand;
-
-
 
         /// CONSTRUCTOR: OrangeFish Constructor
         /// The elements in the brackets are PARAMETERS, which will be covered later in the course
         public OrangeFish(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
             // State initialisation (setup) for the object
+            rand = pRand;
             textureID = pTextureID;
             xPosition = pXpos;
             yPosition = pYpos;
@@ -54,20 +51,17 @@ namespace FishORama
             yDirection = 1;
             screen = pScreen;
             tokenManager = pTokenManager;
-            rand = pRand;
+            
 
             // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
             xSpeed = rand.Next(2, 6);
             ySpeed = xSpeed / 2;
 
-            orangeFishWidth = 128;
-            orangeFishHeight = 86;
+            posScreenWidthMargin = screen.width / 2;
+            negScreenWidthMargin = -(screen.width / 2);
 
-            posScreenWidthMargin = (screen.width - orangeFishWidth) / 2;
-            negScreenWidthMargin = -((screen.width - orangeFishWidth) / 2);
-
-            posScreenHeightMargin = (screen.height - orangeFishHeight) / 2;
-            negScreenHeightMargin = -((screen.height - orangeFishHeight) / 2);
+            posScreenHeightMargin = screen.height / 2;
+            negScreenHeightMargin = -(screen.height / 2);
         }
 
         /// METHOD: Update - will be called repeatedly by the Update loop in Simulation

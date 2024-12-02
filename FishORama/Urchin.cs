@@ -11,86 +11,54 @@ using FishORamaEngineLibrary;
 
 namespace FishORama
 {
-    /// CLASS: OrangeFish - this class is structured as a FishORama engine Token class
-    /// It contains all the elements required to draw a token to screen and update it (for movement etc)
     class Urchin : IDraw
     {
-        // CLASS VARIABLES
-        // Variables hold the information for the class
-        // NOTE - these variables must be present for the class to act as a TOKEN for the FishORama engine
-        private string textureID;               // Holds a string to identify asset used for this token
-        private float xPosition;                // Holds the X coordinate for token position on screen
-        private float yPosition;                // Holds the Y coordinate for token position on screen
-        private int xDirection;                 // Holds the direction the token is currently moving - X value should be either -1 (left) or 1 (right)
-        private int yDirection;                 // Holds the direction the token is currently moving - Y value should be either -1 (down) or 1 (up)
-        private Screen screen;                  // Holds a reference to the screen dimansions (width and height)
-        private ITokenManager tokenManager;     // Holds a reference to the TokenManager - for access to ChickenLeg variable
+        private string textureID;
+        private float xPosition;
+        private float yPosition;
+        private int xDirection;
+        private Screen screen;
+        private ITokenManager tokenManager;
 
-        // *** ADD YOUR CLASS VARIABLES HERE *** 
-        int xSpeed;
-        int ySpeed;
+        float xSpeed;
+
         int posScreenWidthMargin;
         int negScreenWidthMargin;
-        int posScreenHeightMargin;
-        int negScreenHeightMargin;
 
-        int orangeFishWidth;
-        int orangeFishHeight;
+        int urchinWidth;
+
 
         Random rand;
 
-
-
-        /// CONSTRUCTOR: OrangeFish Constructor
-        /// The elements in the brackets are PARAMETERS, which will be covered later in the course
         public Urchin(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
-            // State initialisation (setup) for the object
+            rand = pRand;
             textureID = pTextureID;
             xPosition = pXpos;
             yPosition = pYpos;
             xDirection = 1;
-            yDirection = 1;
             screen = pScreen;
             tokenManager = pTokenManager;
-            rand = pRand;
 
-            // *** ADD OTHER INITIALISATION (class setup) CODE HERE ***
-            xSpeed = rand.Next(1, 4) * 2;
-            ySpeed = rand.Next(1, 6);
+            xSpeed = rand.Next(1, 4);
 
-            orangeFishWidth = 128;
-            orangeFishHeight = 86;
 
-            posScreenWidthMargin = (screen.width - orangeFishWidth) / 2;
-            negScreenWidthMargin = -((screen.width - orangeFishWidth) / 2);
+            urchinWidth = 180;
 
-            posScreenHeightMargin = (screen.height - orangeFishHeight) / 2;
-            negScreenHeightMargin = -((screen.height - orangeFishHeight) / 2);
+            posScreenWidthMargin = screen.width / 2;
+            negScreenWidthMargin = -(screen.width / 2);
         }
 
-        /// METHOD: Update - will be called repeatedly by the Update loop in Simulation
-        /// Write the movement control code here
         public void Update()
         {
-            // *** ADD YOUR MOVEMENT/BEHAVIOUR CODE HERE ***
-            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin) 
-            { 
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin)
+            {
                 xDirection *= -1;
             }
 
-            if (yPosition > posScreenHeightMargin || yPosition < negScreenHeightMargin)
-            {
-                yDirection *= -1;
-            }
-
             xPosition += xSpeed * xDirection;
-            yPosition += ySpeed * yDirection;
         }
 
-        /// METHOD: Draw - Called repeatedly by FishORama engine to draw token on screen
-        /// DO NOT ALTER, and ensure this Draw method is in each token (fish) class
-        /// Comments explain the code - read and try and understand each lines purpose
         public void Draw(IGetAsset pAssetManager, SpriteBatch pSpriteBatch)
         {
             Asset currentAsset = pAssetManager.GetAssetByID(textureID); // Get this token's asset from the AssetManager
