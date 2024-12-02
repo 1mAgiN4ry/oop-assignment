@@ -25,9 +25,6 @@ namespace FishORama
         int posScreenWidthMargin;
         int negScreenWidthMargin;
 
-        int urchinWidth;
-
-
         Random rand;
 
         public Urchin(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
@@ -41,9 +38,6 @@ namespace FishORama
             rand = pRand;
 
             xSpeed = rand.Next(1, 4);
-
-
-            urchinWidth = 180;
 
             posScreenWidthMargin = screen.width / 2;
             negScreenWidthMargin = -(screen.width / 2);

@@ -27,6 +27,7 @@ namespace FishORama
         // *** ADD YOUR CLASS VARIABLES HERE ***
         // Variables to hold fish will be declared here
         OrangeFish orangeFish;
+        Piranha piranha;
         Urchin[] urchins = new Urchin[3];
         Seahorse[] seahorses = new Seahorse[5];
         Random rand;
@@ -59,9 +60,13 @@ namespace FishORama
 
             int xPos = rand.Next(-screen.width / 2, screen.width / 2 + 1);
             int yPos = rand.Next(-screen.height / 2, screen.height / 2 + 1);
-
             orangeFish = new OrangeFish("OrangeFish", xPos, yPos, screen, tokenManager, rand);
             kernel.InsertToken(orangeFish);
+
+            xPos = rand.Next(-screen.width / 2, screen.width / 2 + 1);
+            yPos = rand.Next(screen.height * 1/3, screen.height / 2 + 1);
+            piranha = new Piranha("Piranha1", xPos, yPos, screen, tokenManager, rand);
+            kernel.InsertToken(piranha);
 
             for (int i = 0; i < seahorses.Length; i++)
             {
@@ -93,6 +98,8 @@ namespace FishORama
             // Each fish object (sitting in a variable) must have Update() called on it here
             orangeFish.Update();
 
+            piranha.Update();
+
             for (int i = 0; i < seahorses.Length; i++)
             {
                 seahorses[i].Update();
@@ -102,7 +109,6 @@ namespace FishORama
             {
                 urchins[i].Update();
             }
-
         }
     }
 }

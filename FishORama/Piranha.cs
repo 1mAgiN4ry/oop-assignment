@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using FishORamaEngineLibrary;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar;
 
 /* FISHORAMA24 | .NET 6.0 | C.Blythe */
 
@@ -21,14 +22,38 @@ namespace FishORama
         private Screen screen;
         private ITokenManager tokenManager;
 
-        public Piranha()
+        float xSpeed;
+
+        int posScreenWidthMargin;
+        int negScreenWidthMargin;
+
+        Random rand;
+
+        public Piranha(string pTextureID, float pXpos, float pYpos, Screen pScreen, ITokenManager pTokenManager, Random pRand)
         {
-            
+            textureID = pTextureID;
+            xPosition = pXpos;
+            yPosition = pYpos;
+            xDirection = 1;
+            yDirection = 1;
+            screen = pScreen;
+            tokenManager = pTokenManager;
+            rand = pRand;
+
+            xSpeed = rand.Next(2, 6);
+
+            posScreenWidthMargin = screen.width / 2;
+            negScreenWidthMargin = -(screen.width / 2);
         }
 
         public void Update()
         {
+            if (xPosition > posScreenWidthMargin || xPosition < negScreenWidthMargin)
+            {
+                xDirection *= -1;
+            }
 
+            xPosition += xSpeed * xDirection;
         }
 
         public void Draw(IGetAsset pAssetManager, SpriteBatch pSpriteBatch)
